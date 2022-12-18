@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jraj-157
-- 👀 I’m interested in webdevelopment,machine learning,AI
-- 🌱 I’m currently learning backend web development,Deep Learning.
+- 👀 I’m interested in webdevelopment.
+- 🌱 I’m currently learning backend web development.
 - 📫 How to reach me 9040402899,jagnyaraj157@gmail.com
 
 <!---
